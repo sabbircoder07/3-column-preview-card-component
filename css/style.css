@@ -90,10 +90,11 @@ body {
   margin-bottom: 3.8rem;
 }
 .card-header {
+  font-family: "Big Shoulders Display", cursive;
   font-size: 3.8rem;
-  color: hsl(0, 0%, 95%);
-  text-transform: uppercase;
   font-weight: 700;
+  text-transform: uppercase;
+  color: hsl(0, 0%, 95%);
   margin-bottom: 3.8rem;
 }
 .card-text {
@@ -175,4 +176,3 @@ body {
     grid-area: c;
   }
 }
-
